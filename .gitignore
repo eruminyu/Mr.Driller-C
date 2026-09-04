@@ -1,0 +1,69 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Linker and debug outputs
+*.exp
+*.ilk
+*.pdb
+
+# Visual Studio 캐시 및 임시 파일
+.vs/
+
+# 빌드 결과물 및 중간 생성 파일
+Bin/
+Intermediate/
+[Ii]ncludes/
+[Ll]ib/
+
+# 이 브랜치와 무관한 학습/예제 프로젝트
+/Assets/
+/Game/
+/ShootingGame/
+/내용정리/
+
+# 포트폴리오에 포함하지 않는 개인 학습 자료
+/MrDrillerGame/*_학습정리.md
+/MrDrillerGame/*_코드_해설서.md
+/MrDrillerGame/*_프로젝트_결과보고서.pptx
+*.inspect.ndjson
+
+# GitHub Release에 별도 업로드할 패키지
+/Releases/
+
+# 기타 사용자 설정 파일
+*.user
+*.suo
+
+# OS generated files
+Thumbs.db
+.DS_Store
