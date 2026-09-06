@@ -13,6 +13,20 @@ Windows 콘솔 환경에서 C++20으로 제작한 드릴 액션 게임입니다.
 
 [최신 Windows x64 릴리즈 다운로드](https://github.com/eruminyu/Mr.Driller-C/releases/latest)
 
+## 게임 화면
+
+### 메인 화면
+
+![Mr. Driller-C 메인 화면](docs/images/main-menu.png)
+
+### 게임 시작 화면
+
+![Mr. Driller-C 게임 시작 화면](docs/images/game-start.png)
+
+## 게임플레이 영상
+
+[YouTube에서 게임플레이 영상 보기](https://youtu.be/YWC5gFeSiZI)
+
 ## 주요 구현
 
 - `StartMenu → GamePlay → Pause` 상태 전환과 재시작 처리
