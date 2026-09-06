@@ -3,6 +3,12 @@
 Windows 콘솔 환경에서 C++20으로 제작한 드릴 액션 게임입니다. 직접 구현한 DLL 기반 `CraftEngine` 위에 블록 파괴와 낙하, 산소 관리, 카메라 스크롤, 자동 플레이를 구성했습니다.
 
 > 학습과 포트폴리오 목적으로 제작한 비공식 개인 프로젝트입니다.
+>
+> ## 개발 보고서
+
+프로젝트의 구현 과정과 문제 해결 기록은 아래 글에 정리했습니다.
+
+- [Mr.Driller-C 개발 보고서](블로그-글-주소)
 
 [최신 Windows x64 릴리즈 다운로드](https://github.com/eruminyu/Mr.Driller-C/releases/latest)
 
