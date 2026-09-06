@@ -25,7 +25,9 @@ Windows 콘솔 환경에서 C++20으로 제작한 드릴 액션 게임입니다.
 
 ## 게임플레이 영상
 
-[YouTube에서 게임플레이 영상 보기](https://youtu.be/YWC5gFeSiZI)
+[![Mr. Driller-C 게임플레이 영상 썸네일](https://img.youtube.com/vi/YWC5gFeSiZI/hqdefault.jpg)](https://youtu.be/YWC5gFeSiZI)
+
+썸네일을 클릭하면 YouTube에서 게임플레이 영상을 볼 수 있습니다.
 
 ## 주요 구현
 
